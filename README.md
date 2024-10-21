@@ -7,10 +7,8 @@ The Aim of the project to make a chat bot response as voice note with the help o
 4.Allows the chatbot to adapt its tone to different scenarios, improving contextual relevance.
 5.This feature enables the chatbot to adopt different speech styles, such as formal, casual, or enthusiastic, based on the context of the conversation or user preferences.
 ## Requirements
-1.Python 3.x
-2.Jupyter Notebook (Anaconda 3)
-## Clone the repository
-
+ - Python 3.x
+ - Jupyter Notebook (Anaconda 3)
 ## Usage
 1.Create interactive FAQs on websites or applications where users can ask questions in text, and the chatbot responds with voice-generated answers, providing a more engaging user experience.
 2.Chatbots that can convert text-based customer queries into natural-sounding voice responses
